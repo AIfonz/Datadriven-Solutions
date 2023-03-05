@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Datadriven Solutions
+# Datadriven Solutions 
 
 _Alle info voor studenten en deelnemende organisaties._
 
