@@ -19,20 +19,20 @@ _Alle info voor studenten en deelnemende organisaties._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0>
+<details id=0 open>
 <summary><h2>Welkom</h2></summary>
 
 In het minorprogramma Datadriven Solutions leren studenten dataskills en passen die toe op actuele casuistiek in de praktijk.
 De minor bestaat uit een theorie en een praktijkgedeelte<br><br>
 
 
-- **Theorie (10-20 ECTS)**: Data Science (Datacamp) & Business intelligence met PowerBI (MS-Learn). <br>
-- **Praktijk (10-20 ECTS)**: Studenten werken aan projecten die door de minor zijn geaquireerd en aan zelf ingebrachte projecten.<br>
-- **Leeruitkomsten**: Student toont dataskills aan en toont aan dataskills te kunnen inzetten om een proces in de praktijk te optimaliseren volgens de geldende actuele richtlijnen.<br>
-- **Ingangseisen**: Student moet eerste twee jaar van Bachelor studie volledig hebben afgerond. Interesse in data is essentieel, ervaring is niet nodig, we starten bij 0. <br>
-- **Toetsing**: Student toont dataskills aan door transcripts en certificaten te verzamelen voor het theoriegedeelte. Voor de praktijk bouwt de student een portfolio in een projectmanagement omgeving en legt een assessment af waarin de individuele bijdrage van de student wordt getoond en bewezen.<br>
+- Theorie (10-20 ECTS): Data Science (Datacamp) & Business intelligence met PowerBI (MS-Learn). <br>
+- Praktijk (10-20 ECTS): Studenten werken aan projecten die door de minor zijn geaquireerd en aan zelf ingebrachte projecten.<br>
+- Leeruitkomsten: Student toont dataskills aan en toont aan dataskills te kunnen inzetten om een proces in de praktijk te optimaliseren volgens de geldende actuele richtlijnen.<br>
+- Ingangseisen: Student moet eerste twee jaar van Bachelor studie volledig hebben afgerond. Interesse in data is essentieel, ervaring is niet nodig, we starten bij 0. <br>
+- Toetsing: Student toont dataskills aan door transcripts en certificaten te verzamelen voor het theoriegedeelte. Voor de praktijk bouwt de student een portfolio in een projectmanagement omgeving en legt een assessment af waarin de individuele bijdrage van de student wordt getoond en bewezen.
 <br><br>
-**Tips:**
+Tips:
 <br><br>
 * De minor bevat een fulltime programma, ernaast werken of oude modules behalen is gezien de studielast bijna niet haalbaar.<br>
 * Documenteer alles wat je in de minor doet, want alles draagt bij aan het opbouwen van het individueel portfolio.<br><br>
@@ -40,7 +40,7 @@ De minor bestaat uit een theorie en een praktijkgedeelte<br><br>
 ## Wat staat je in het begin van de minor te wachten?<br><br>
 
 1. Je krijgt een account op Datacamp, waar je de eerste 12 weken een intensief 'Datascience met Python' traject volgt, wekelijks lever je bewijs in van de onderdelen die je hebt doorlopen.<br>
-   <br />[https:/www.datacamp.com](https://www.datacamp.com)  <br><br>
+   <br /><a href="https:www.datacamp.com"> Datacamp </a>   <br><br>
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
@@ -59,7 +59,7 @@ De minor bestaat uit een theorie en een praktijkgedeelte<br><br>
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a branch</h2></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
