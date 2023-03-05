@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# Datadriven Solutions
 
-_Get started using GitHub in less than an hour._
+_Alle info voor studenten en deelnemende organisaties._
 
 
 <!-- 
