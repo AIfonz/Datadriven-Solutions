@@ -26,11 +26,11 @@ In het minorprogramma Datadriven Solutions leren studenten dataskills en passen 
 De minor bestaat uit een theorie en een praktijkgedeelte
 
 
-- **Theorie (10-20 ECTS)**: Data Science (Datacamp) & Business intelligence met PowerBI (MS-Learn).
-- **Praktijk (10-20 ECTS)**: Studenten werken aan projecten die door de minor zijn geaquireerd en aan zelf ingebrachte projecten.
-- **Leeruitkomsten**: Student toont dataskills aan en toont aan dataskills te kunnen inzetten om een proces in de praktijk te optimaliseren volgens de geldende actuele richtlijnen.
-- **Ingangseisen**: Student moet eerste twee jaar van Bachelor studie volledig hebben afgerond. Interesse in data is essentieel, ervaring is niet nodig, we starten bij 0. 
-- **Toetsing**: Student toont dataskills aan door transcripts en certificaten te verzamelen voor het theoriegedeelte. Voor de praktijk bouwt de student een portfolio in een projectmanagement omgeving en legt een assessment af waarin de individuele bijdrage van de student wordt getoond en bewezen.
+- **Theorie (10-20 ECTS)**: Data Science (Datacamp) & Business intelligence met PowerBI (MS-Learn). <br>
+- **Praktijk (10-20 ECTS)**: Studenten werken aan projecten die door de minor zijn geaquireerd en aan zelf ingebrachte projecten.<br>
+- **Leeruitkomsten**: Student toont dataskills aan en toont aan dataskills te kunnen inzetten om een proces in de praktijk te optimaliseren volgens de geldende actuele richtlijnen.<br>
+- **Ingangseisen**: Student moet eerste twee jaar van Bachelor studie volledig hebben afgerond. Interesse in data is essentieel, ervaring is niet nodig, we starten bij 0. <br>
+- **Toetsing**: Student toont dataskills aan door transcripts en certificaten te verzamelen voor het theoriegedeelte. Voor de praktijk bouwt de student een portfolio in een projectmanagement omgeving en legt een assessment af waarin de individuele bijdrage van de student wordt getoond en bewezen.<br>
 
 **Tips:**
 
