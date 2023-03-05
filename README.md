@@ -20,25 +20,27 @@ _Alle info voor studenten en deelnemende organisaties._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welkom</h2></summary>
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+In het minorprogramma Datadriven Solutions leren studenten dataskills en passen die toe op actuele casuistiek in de praktijk.  
+De minor bestaat uit een theorie en een praktijkgedeelte
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
 
-**Course tips:**
+- **Theorie (10-20 ECTS)**: Data Science (Datacamp) & Business intelligence met PowerBI (MS-Learn).
+- **Praktijk (10-20 ECTS)**: Studenten werken aan projecten die door de minor zijn geaquireerd en aan zelf ingebrachte projecten.
+- **Leeruitkomsten**: Student toont dataskills aan en toont aan dataskills te kunnen inzetten om een proces in de praktijk te optimaliseren volgens de geldende actuele richtlijnen.
+- **Ingangseisen**: Student moet eerste twee jaar van Bachelor studie volledig hebben afgerond. Interesse in data is essentieel, ervaring is niet nodig, we starten bij 0. 
+- **Toetsing**: Student toont dataskills aan door transcripts en certificaten te verzamelen voor het theoriegedeelte. Voor de praktijk bouwt de student een portfolio in een projectmanagement omgeving en legt een assessment af waarin de individuele bijdrage van de student wordt getoond en bewezen.
 
-* Glossary terms will be _emphasised_ and linked to their definition. 
-* This course includes optional video links. Look for the :tv: emoji and follow the link to the video.
+**Tips:**
 
-## How to start this course
+* De minor bevat een fulltime programma, ernaast werken of oude modules behalen is gezien de studielast bijna niet haalbaar.
+* Documenteer alles wat je in de minor doet, want alles draagt bij aan het opbouwen van het individueel portfolio.
 
-1. Right-click **Start course** and open the link in a new tab.
-   <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/introduction-to-github/generate)
+## Wat staat je in het begin van de minor te wachten?
+
+1. Je krijgt een account op Datacamp, waar je de eerste 12 weken een intensief 'Datascience met Python' traject volgt, wekelijks lever je bewijs in van de onderdelen die je hebt doorlopen.
+   <br />[https:/www.datacamp.com](https://www.datacamp.com)  
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
