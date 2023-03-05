@@ -40,7 +40,7 @@ Tips:
 ## Wat staat je in het begin van de minor te wachten?<br><br>
 
 1. Je krijgt een account op Datacamp, waar je de eerste 12 weken een intensief 'Datascience met Python' traject volgt, wekelijks lever je bewijs in van de onderdelen die je hebt doorlopen.<br>
-   <br /><a href="https:www.datacamp.com"> Datacamp </a>   <br><br>
+   <br /><a href="https://www.datacamp.com"> Datacamp </a>   <br><br>
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
